@@ -1,0 +1,13 @@
+# Ignore virtual environment
+proj-env/
+__pycache__/
+
+# Add any other specific files related to your virtual environment if needed
+
+# Ignore pipenv virtual environment
+Pipfile
+Pipfile.lock
+
+# Ignore poetry virtual environment
+.poetry/
+__pypackages__/
